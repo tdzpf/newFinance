@@ -1,2 +1,2 @@
 # newFinance
-finance
+newfinance
